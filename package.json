@@ -1,0 +1,12 @@
+package.json
+{
+  "name": "turf-app",
+  "version": "1.0.0",
+  "description": "Turf journal and accounting app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "android-build": "npx cordova build android"
+  },
+  "dependencies": {}
+}
